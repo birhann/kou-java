@@ -9,6 +9,7 @@ public class App4 {
         Scanner sc = new Scanner(System.in);
         int i = sc.nextInt();
         System.out.println(i);
+        sc.close();
         System.out.println("Hello" + toplam);
     }
 }
